@@ -43,4 +43,5 @@ This project is an **unofficial fan-made simulation** created strictly for educa
 
 ---
 
-Enjoy and Remmeber the AI.py is the main file and All credit is too Microsoft Credit to Microsoft. No copyright infringement is intended from my sight please Enjoy it is an unoffical.I am new in coding if any bugs fixes you want so tell me and also suggest  me Ideas 
+Enjoy and Remmeber the AI.py is the main file and All credit is too Microsoft Credit to Microsoft. No copyright infringement is intended from my sight please Enjoy it is an unoffical.I am new in coding if any bugs fixes you want so tell me and also suggest  me Ideas However The license only apply on code not on Microsoft Assests
+
