@@ -1,0 +1,63 @@
+{
+  "user_name": "Generic Account",
+  "first_name": "Generic",
+  "last_name": "Account",
+  "notes": [],
+  "tasks": [],
+  "remember_me": true,
+  "preferences": {
+    "voice": "male"
+  },
+  "ram_size": "8GB",
+  "user_age": "20",
+  "os_version": "Ultimate",
+  "welcome_sound_path": "",
+  "volume": 55,
+  "drivers_installed": true,
+  "show_driver_prompt": false,
+  "signin_mode": "Aero",
+  "core_deleted": false,
+  "bios_security_disabled": false,
+  "os_corrupted": false,
+  "journal": [],
+  "alarms": [],
+  "bookmarks": [],
+  "chat_history": [],
+  "pomodoro_sessions": 0,
+  "habit_tracker": {},
+  "shortcuts": {},
+  "clipboard_history": [],
+  "weather_city": "New York",
+  "security_features": {
+    "firewall": true,
+    "virus_protection": true,
+    "account_protection": true,
+    "system_guard": true,
+    "driver_support": true
+  },
+  "bios_settings": {
+    "secure_boot": "Enabled",
+    "xmp": "Disabled",
+    "turbo_boost": "Enabled",
+    "rtc_wake": "Enabled"
+  },
+  "product_key": "1234",
+  "os_activated": false,
+  "pc_name": "Desktop-PC",
+  "pwd_hint": "Hint",
+  "setup_complete": false,
+  "activated": false,
+  "wallpaper": "",
+  "calendar_events": {},
+  "apps": [
+    {
+      "name": "Google",
+      "cmd": "https://www.google.com",
+      "subtitle": "Web"
+    }
+  ],
+  "wiki_pages": {
+    "Home": "# Welcome to your Personal Wiki\n\nThis is your **personal knowledge base**.\n\nCreate pages, link ideas, build your second brain.\n\n## Quick Links\n- [[Python Notes]]"
+  },
+  "learning_paths": []
+}

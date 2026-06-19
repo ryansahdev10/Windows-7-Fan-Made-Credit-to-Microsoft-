@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="10" fill="#ffffff" stroke="#4285f4" stroke-width="1"/>
+  <g font-family="Segoe UI, Arial" font-size="8" font-weight="bold">
+    <text x="12" y="14" text-anchor="middle" fill="#4285f4">Google</text>
+  </g>
+</svg>
